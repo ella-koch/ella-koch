@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Ella Koch. I am from Vancouver, Washington and this is my first year at OSU. I am considering a major in data science alongside my math major because I like the statistical part of math and its applications.
 
 <!--
 **ella-koch/ella-koch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
